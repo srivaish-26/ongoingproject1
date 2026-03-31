@@ -1,0 +1,7 @@
+2D Plotter  – (Ongoing)
+
+• Developing a 2D plotter system by converting input images into G-code using Inkscape and GRBL workflow
+• Implementing motion control by interfacing Arduino with servo motors for precise path execution
+• Understanding and analysing G-code instructions for coordinated multi-axis movement
+• Currently working on hardware integration and control logic for accurate plotting
+• Planned assembly and testing of complete system for real-time drawing applications
