@@ -1,0 +1,5 @@
+• Developed a custom motion control workflow by converting images into G-code using Inkscape
+• Implemented direct G-code interpretation on Arduino to control servo motors without GRBL due to hardware compatibility limitations
+(We were provided an Arduino UNO R4 Minima, which was not compatible with GRBL firmware.)
+• Automated G-code transmission using Python (pyserial) for continuous command streaming and motor execution.
+• Currently working on mechanical assembly and final hardware integration of the plotter system
